@@ -1,0 +1,13 @@
+.App {
+	margin: 0;
+}
+
+.App ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+}
+
+.App nav li {
+	padding: 8px 16px;
+}
